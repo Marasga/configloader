@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/configloader/__init__.py
+src/configloader/configloader.py
+src/configloader_Marasga.egg-info/PKG-INFO
+src/configloader_Marasga.egg-info/SOURCES.txt
+src/configloader_Marasga.egg-info/dependency_links.txt
+src/configloader_Marasga.egg-info/top_level.txt

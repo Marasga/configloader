@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: configloader-Marasga
+Version: 0.0.1
+Summary: json-based config handler
+Home-page: https://github.com/pypa/sampleproject
+Author: Marasga
+Author-email: gabriele.marastoni@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# configlaoder Package
+
+This is a simple config loader package. 
+It is based on the idea of saving configuration file for
+python program in a json and loading it into an object.
+You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
+
